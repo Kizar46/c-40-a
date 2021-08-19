@@ -65,8 +65,8 @@ function draw() {
   }
   else 
   {
-    milk1.buttoon1.show ()
-    milk1.buttoon2.show ()
+   // milk1.buttoon1.show ()
+   // milk1.buttoon2.show ()
     dog.addImage(dogSad)
     dog.scale=0.2
   }
