@@ -59,8 +59,8 @@ function draw() {
 
   if(gameState !== "hungry")
   {
-    milk1.button1.hide();
-    milk2.button2.hide();
+  //  milk1.button1.hide();
+   // milk2.button2.hide();
     dog.remove();
   }
   else 
